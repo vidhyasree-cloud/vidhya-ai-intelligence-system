@@ -8,4 +8,5 @@ export default {
     extend: {},
   },
   plugins: [],
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.d.ts"],
 }
